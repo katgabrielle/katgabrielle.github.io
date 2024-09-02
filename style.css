@@ -73,11 +73,12 @@ a {
 .kg-gap {
 	margin-top: 40px;
 }
-@media (max-width: 1023px) {
+@media (max-width: 1024px) {
 	.container{ display: block; padding: 0px; }
 	.content-wrp{ width: 100%; }
 	.content-wrp, .inner-content{ height: auto; }
 	.kg-video .inner-content{ height: 400px; }
+	h1{font-size:30px;}
 }
 @media (max-width: 767px) {
 	h1{ font-size: 26px; }
