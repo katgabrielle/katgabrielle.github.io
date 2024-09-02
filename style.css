@@ -64,6 +64,8 @@ h1 {
 p {
 	font-family: 'Inter', sans-serif;
 	margin: 20px 0px;
+	font-size: 14px;
+    	line-height: 20px;
 }
 a { 
 	color: #ffffff; 
