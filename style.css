@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Harbour';
-    src:url('fonts/Harbour-Medium.ttf') format('truetype');
+    font-family: 'VioletSans';
+    src:url('VioletSans-Regular.ttf') format('truetype');
     font-weight: 500;
 }
 @font-face {
@@ -51,7 +51,7 @@ body {
     top: 0;
 }
 h1 {
-	font-family: 'Harbour', sans-serif;
+	font-family: 'VioletSans', sans-serif;
 	font-size: 30px;
 	margin: 40px 0px 40px 0px;
 	text-align: center;
