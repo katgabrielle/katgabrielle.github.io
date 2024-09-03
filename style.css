@@ -49,6 +49,7 @@ body {
 .kg-video .inner-content {
 	position: relative;
 	height: 400px;
+	margin-bottom:40px;
 }
 #background-video {
 	width: 100%;
