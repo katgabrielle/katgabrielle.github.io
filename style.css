@@ -68,6 +68,7 @@ a {
 .kg-gap {
 	margin-top: 30px;
 }
+.inner-content p:last-child{margin-bottom: 100px;}
 @media (max-width: 767px) {
 	h1{ font-size: 25px; }
 	.container{ padding: 0px 20px; }
